@@ -1,8 +1,8 @@
 import argparse
 
-import pywebio as pw
+
 import bitly_api
-import pywebio.output
+import pywebio
 
 API_KEY = 'key'
 def shorten():
