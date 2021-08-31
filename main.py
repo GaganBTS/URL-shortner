@@ -4,7 +4,7 @@ import pywebio as pw
 import bitly_api
 import pywebio.output
 
-API_KEY = '83134575c8bc8280907b8f02c9fb5a854d4aaeba'
+API_KEY = 'key'
 def shorten():
  pywebio.session.set_env(title='URL Shortener')
 
